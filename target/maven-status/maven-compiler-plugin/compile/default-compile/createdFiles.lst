@@ -1,1 +1,3 @@
 com\springboot\springbootrestapiexample\model\Employee.class
+com\springboot\springbootrestapiexample\repository\EmployeeRepository.class
+com\springboot\springbootrestapiexample\dao\EmployeeDAO.class
