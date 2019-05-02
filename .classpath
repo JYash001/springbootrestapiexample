@@ -28,5 +28,12 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PRAVEEN JOE/Downloads/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PRAVEEN JOE/Downloads/hibernate-annotations-3.4.0.GA/hibernate-annotations-3.4.0.GA/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PRAVEEN JOE/Downloads/hibernate-release-4.2.15.Final/hibernate-release-4.2.15.Final/lib/jpa/hibernate-entitymanager-4.2.15.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PRAVEEN JOE/Downloads/hibernate-annotations-3.4.0.GA/hibernate-annotations-3.4.0.GA/lib/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PRAVEEN JOE/Downloads/hibernate-annotations-3.4.0.GA/hibernate-annotations-3.4.0.GA/lib/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PRAVEEN JOE/Downloads/hibernate-annotations-3.4.0.GA/hibernate-annotations-3.4.0.GA/lib/hibernate-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PRAVEEN JOE/Downloads/hibernate-release-4.2.15.Final/hibernate-release-4.2.15.Final/project/etc"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
